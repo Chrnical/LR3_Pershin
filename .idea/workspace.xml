@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b56d212-a2e8-4126-b6b0-7d997732ec32" name="Changes" comment="Code">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lr1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barrage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Barrage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cell.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cell.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoubleDamage.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoubleDamage.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Field.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Field.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameException.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameExceptions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameState.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameState.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scan.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scan.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ship.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ship.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShipManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShipManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spell.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spell.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpellManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpellManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-107bfaca94805913e274.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-cbdb5c9e47a4d7367ee9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2a00edbbd761c3068207.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-12-14T21-45-33-0840.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-lr1-Debug-231e3ad878550011119e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-4fa4a7d4b058941239f7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Barrage.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Cell.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/DoubleDamage.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Field.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Game.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/GameState.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Input.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Player.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Scan.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Segment.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Ship.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/ShipManager.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/ShipPlacementState.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/ShootCellState.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/Spell.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/SpellCastState.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/SpellManager.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lr1.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lr1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2oJXEQCm4zq6he2XApT19xehKzM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Артем/CLionProjects/lr1",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b56d212-a2e8-4126-b6b0-7d997732ec32" name="Changes" comment="" />
+      <created>1730588539747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730588539747</updated>
+      <workItem from="1730588541144" duration="413000" />
+      <workItem from="1730589093756" duration="2028000" />
+      <workItem from="1730625209719" duration="4027000" />
+      <workItem from="1730629913254" duration="271000" />
+      <workItem from="1730630745607" duration="801000" />
+      <workItem from="1730641221751" duration="4268000" />
+      <workItem from="1730924720996" duration="748000" />
+      <workItem from="1730968779706" duration="752000" />
+      <workItem from="1731234001691" duration="50000" />
+      <workItem from="1731505186119" duration="531000" />
+      <workItem from="1731851690951" duration="1954000" />
+      <workItem from="1731866845581" duration="726000" />
+      <workItem from="1731867651194" duration="921000" />
+      <workItem from="1731916704036" duration="233000" />
+      <workItem from="1731917119367" duration="1012000" />
+      <workItem from="1731922237753" duration="4236000" />
+      <workItem from="1731933096878" duration="2419000" />
+      <workItem from="1732128531598" duration="1256000" />
+      <workItem from="1732388245291" duration="173000" />
+      <workItem from="1732388435044" duration="185000" />
+      <workItem from="1732388637923" duration="2226000" />
+      <workItem from="1732435393208" duration="2293000" />
+      <workItem from="1732437765784" duration="4541000" />
+      <workItem from="1732452293865" duration="4755000" />
+      <workItem from="1732465892542" duration="4814000" />
+      <workItem from="1732480789042" duration="1935000" />
+      <workItem from="1732537466834" duration="2612000" />
+      <workItem from="1732738812688" duration="1540000" />
+      <workItem from="1732794335414" duration="19016000" />
+      <workItem from="1734212733006" duration="1189000" />
+      <workItem from="1734252755616" duration="3756000" />
+      <workItem from="1734267827679" duration="9883000" />
+      <workItem from="1734279167966" duration="674000" />
+      <workItem from="1734287584209" duration="554000" />
+      <workItem from="1734548914817" duration="31000" />
+      <workItem from="1735759525228" duration="1372000" />
+      <workItem from="1735775935478" duration="267000" />
+      <workItem from="1735852352874" duration="586000" />
+      <workItem from="1735861263047" duration="763000" />
+      <workItem from="1735864713684" duration="559000" />
+      <workItem from="1735867865872" duration="3795000" />
+      <workItem from="1735948889868" duration="71000" />
+      <workItem from="1736364345757" duration="853000" />
+    </task>
+    <task id="LOCAL-00001" summary="Code">
+      <created>1736364912087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736364912087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
