@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/cmake-build-debug",
-		"source" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1"
+		"build" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/src/cmake-build-debug",
+		"source" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/src"
 	},
 	"version" : 
 	{

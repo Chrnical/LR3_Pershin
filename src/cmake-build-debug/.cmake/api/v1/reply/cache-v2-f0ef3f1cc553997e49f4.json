@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/cmake-build-debug"
+			"value" : "c:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/src/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1"
+			"value" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/src"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/cmake-build-debug"
+			"value" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/src/cmake-build-debug"
 		},
 		{
 			"name" : "lr1_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1"
+			"value" : "C:/Users/\u0410\u0440\u0442\u0435\u043c/CLionProjects/lr1/src"
 		}
 	],
 	"kind" : "cache",
