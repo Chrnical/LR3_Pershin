@@ -12,6 +12,7 @@ Game::Game() {
 void Game::start() {
     gameState->shipPlacementPhase();
     do {
+        std::cout << "New bot\n";
         gameState->generateBot();
         do {
             gameState->loadPhase();
@@ -20,6 +21,8 @@ void Game::start() {
             gameState->shootCellPhase();
             gameState->botTurnPhase();
             gameState->printFields();
-        } while (!gameState->win());
+        } while (!gameState->win() && !gameState->loss());
+        std::cout << "You won\n";
     } while (!gameState->loss());
+    std::cout << "You lost\n";
 }
