@@ -10,9 +10,11 @@ Game::Game() {
 }
 
 void Game::start() {
-    gameState->shipPlacementPhase();
+    if(!gameState->loadPhase()) {
+        gameState->shipPlacementPhase();
+    }
     do {
-        std::cout << "New bot\n";
+        std::cout << "Bot generated\n";
         gameState->generateBot();
         do {
             gameState->loadPhase();

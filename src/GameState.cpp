@@ -140,13 +140,15 @@ void GameState::savePhase() const {
     }
 }
 
-void GameState::loadPhase() {
+bool GameState::loadPhase() {
     std::cout << "Do you want to load? (Y/N):";
     char player;
     std::cin >> player;
     if(player == 'Y'){
         std::cin >> *this;
+        return true;
     }
+    return false;
 }
 
 

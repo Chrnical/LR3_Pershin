@@ -28,7 +28,7 @@ public:
     void shootCellPhase();
     void botTurnPhase();
     void savePhase() const;
-    void loadPhase();
+    bool loadPhase();
 
     void printFields();
     void generateBot();
